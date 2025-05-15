@@ -14,7 +14,7 @@ setTrue = true
 
     when functions = runProper.runExeGaming = true 
     (setTrue = true) goOutBracket 
-    then askForGame = supportGame
+    then askForGame = supportGamingClient (asGroup)
     then connect.mainDevice.mainUser.computer = DirectConnect.Steam = setTrue.force alwaysSetTrue
     then connect.mainDevice.mainUser.computer = DirectConnect.EpicGames = setTrue.forceAlwaysTrue
     then connect.mainDevice.mainUser.computer = DirectConnect.UPlay = setTrue.forceAlwaysTrue
