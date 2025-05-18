@@ -8,7 +8,7 @@ local function.forceToTrue = functioning.force = true (forceToTrue)
 
                 else askForParent = setAnswer.dependUser = mainUser
                     if mainUser = setAnswer.force = false 
-                    then print ("You should allow the PIALLO Software to access full WiFi glazing.")
+                    then print ("You should allow the PIALLO Software to access your location to find the best WiFi according to your current location. The datas are locked and no one, even the Cerdocebolla Software can not access it and expose your datas.")
 
         if mainDevice.mainUser = setAnswer = true 
         then local client.function askForChild = localServers.location.currentLocationOfUser.force = forceToTrue
